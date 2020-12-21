@@ -1,2 +1,2 @@
 # hello-world
-Anotehr attempt at hello world
+Another attempt at hello world
